@@ -1,3 +1,5 @@
+![Profile Picture](ruta/de/tu/foto.jpg)
+
 - 👋 Hi, I’m @MeliRincon
 - 👀 I’m passionate about science, technology, speed skating, and martial arts.
 - 🌱 I’m currently honing my skills in advanced testing methodologies and frontend development with React.
